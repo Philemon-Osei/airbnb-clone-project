@@ -9,6 +9,22 @@
 </ul>
 <section>
   <h2>UI/UX Design Planning</h2>
+  <h3>Color Styles:</h3>
+  <ul>
+    <li>Primary: #FF5A5F</li>
+    <li> Secondary: #008489</li>
+    <li> Background: #FFFFFF</li>
+    <li>Text: #222222</li>
+    <li>Secondary Text: #717171</li>
+  </ul>
+  <h3>Typography:</h3>
+  <ul>
+    <li>Primary Font: Circular, Medium (500), 16px</li>
+    <li>Headings: Circular, Bold (700), 24px-32px</li>
+    <li>Secondary Text: Circular, Book (400), 14px</li>
+  </ul>
+    <p>Identifying the design properties of a mock-up is crucial for ensuring that the final product meets both functional and aesthetic goals.</p>
+
   <h3>Design Goals</h3>
   <ul>
     <li>Create intuitive booking flow</li>
@@ -24,14 +40,14 @@
     <li>User authentication</li>
   </ul>
    <table>
+       <h2>Primary Pages</h2>
    <thead>
-  <h2>Primary Pages</h2>
+      <tr>
+        <th>Page</th>
+        <th>Description</th>
+      </tr>
    </thead>
   <tbody>
-     <th>
-      <td>Page</td>
-      <td>Description</td>
-    </th>
      <tr>
        <td>Property Listing Page</td>
        <td>Grid display of available properties with filters</td>
@@ -48,4 +64,49 @@
  </table>
 <h2>Importance of User-Friendly Design</h2>
   <p>A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.</p>
+</section>
+<section>
+<h2>Project Roles and Responsiblities</h2>
+<table>
+ <theader>
+    <tr>
+      <th>Role</th>
+      <th>Responsibilities</th>
+    </tr>
+ </theader>
+<tbody>
+  <tr>
+    <td>Project Manager</td>
+    <td>Oversees timeline,coordinate team,manages deliverables</td>
+  </tr>
+  <tr>
+    <td>Fronted Developers</td>
+    <td>Implements UI components, ensures resonsive design</td>
+  </tr>
+  <tr>
+    <td>Backend Developers</td>
+    <td>Builds APIs,manages database, implements business logic</td>
+  </tr>
+  <tr>
+    <td>Designers</td>
+    <td>Creates mockups, maintains design systems,ensures UX quality</td>
+  </tr>
+  <tr>
+    <td>QA/Testers</td>
+    <td>Writes test cases, performs testing, reports bugs</td>
+  </tr>
+  <tr>
+    <td>DevOps Engineers</td>
+    <td>Manages deployment, CI/CD pipeline, server infrastructure</td>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>Defines requirements, prioritizes features, represents stakeholders</td>
+  </tr>
+  <tr>
+    <td>Scrum Master</td>
+    <td>Facilitates agile processes, removes blockers, organizes meetings</td>
+  </tr>
+  </tbody>
+</table>
 </section>
