@@ -109,7 +109,7 @@
   </tr>
   </tbody>
 </table>
-  <h2>🧱 UI COMPONENTS</h2>
+  <h2>UI Component Patterns</h2>
 
 <p>This section outlines the core UI components used in the Airbnb clone project. Each component plays a vital role in delivering a seamless user experience.</p>
 
